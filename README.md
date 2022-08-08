@@ -3,11 +3,14 @@
 <p align="left"> 
   Olá! Meu nome é Pedro Bernardes.
   <br>
-  <h3> :woman: &nbsp;Sobre mim </h3>
+  <h3> Sobre mim </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando na Kenzie Academy Back-End <a href="https://kenzie.com.br/curriculo"></a>.
-- 🌱 &nbsp; Aprendendo mais sobre Docker e PSQL.
+- :hourglass: Tenho 30 anos;
+- :weight_lifting_man: Formado em educação física;
+- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software;
+- 🎓 &nbsp; Estudando Back-end na <a href="https://kenzie.com.br/curriculo">Kenzie Academy </a>;
+- 🌱 &nbsp; Aprendendo mais sobre Docker e PSQL;
+
 </p>
 
 <p align="left">
