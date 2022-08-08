@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/pedro-bernardes-a3500a183" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-bernardes-a3500a183/" /></a>
 
-    <a href="https://wa.me/5531991620813" alt="WhatsApp">
+  <a href="https://wa.me/5531991620813" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5531991620813"/></a>
  
   <a href="https://www.instagram.com/pedroiago.bernardes/" alt="Instagram">
