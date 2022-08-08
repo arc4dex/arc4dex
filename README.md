@@ -3,8 +3,11 @@
 <p align="left"> 
   Olá! Meu nome é Pedro Bernardes.
   <br>
-  Sou formado em Educação Física e agora sou <strong>desenvolvedor web Front-End</strong> formado pela <strong> Kenzie Academy Brazil</strong>.<br>
-  No momento, sou aluno da Kenzie Academy Brasil do curso de Back-End.
+  <h3> :woman: &nbsp;Sobre mim </h3>
+
+- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 &nbsp; Estudando na Kenzie Academy Back-End <a href="https://kenzie.com.br/curriculo"></a>.
+- 🌱 &nbsp; Aprendendo mais sobre Docker e PSQL.
 </p>
 
 <p align="left">
