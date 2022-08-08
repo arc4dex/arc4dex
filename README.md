@@ -11,7 +11,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software;
 - 🎓 &nbsp; Estudando Back-end na <a href="https://kenzie.com.br/curriculo">Kenzie Academy </a>;
 - 🌱 &nbsp; Aprendendo mais sobre Docker e PSQL;
--  :jigsaw: Meu hobbie favorito é Board Game.
+-  :jigsaw: Meu hobby favorito é Board Game.
 
 </p>
 
