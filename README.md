@@ -27,7 +27,7 @@
 </p>  
 
 <section>
-  <h1>Linguagens e Ferramentas:</h1>
+  <h2>Linguagens e Ferramentas:</h2>
   
   <h4>Linguagens que possuo experiência:</h4>
   <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/>
