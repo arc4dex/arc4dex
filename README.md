@@ -54,6 +54,8 @@
   <img src='https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white' />
     <img src='https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white' />
     <img src='https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia' />
+    <img src='https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC' />
+    <img src='https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC' />
   
 </section>
 
