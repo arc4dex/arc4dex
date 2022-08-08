@@ -21,7 +21,7 @@
 
 
 <p align="left">
-  <a href="pedroiago.bernardes@gmail.com" alt="Gmail">
+  <a href="mailto:pedroiago.bernardes@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=pedroiago.bernardes@gmail.com" /></a>
 
   <a href="https://www.linkedin.com/in/pedro-bernardes-a3500a183" alt="Linkedin">
