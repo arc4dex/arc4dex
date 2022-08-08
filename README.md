@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá! Meu nome é Pedro Bernardes.
+ :v: Olá! Meu nome é Pedro Bernardes. 
   <br>
   <h3> Sobre mim </h3>
 
@@ -10,6 +10,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software;
 - 🎓 &nbsp; Estudando Back-end na <a href="https://kenzie.com.br/curriculo">Kenzie Academy </a>;
 - 🌱 &nbsp; Aprendendo mais sobre Docker e PSQL;
+-  :jigsaw: Meu hobbie favorito é Board Game.
 
 </p>
 
