@@ -53,6 +53,7 @@
   <img src='https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white'/>
   <img src='https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white' />
     <img src='https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white' />
+    <img src='https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia' />
   
 </section>
 
