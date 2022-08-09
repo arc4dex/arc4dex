@@ -6,6 +6,7 @@
   <h3> Sobre mim </h3>
 
 - :hourglass: Tenho 30 anos;
+- :desktop_computer: Desenvolvedro Front-End;
 - :weight_lifting_man: Formado em educação física;
 - :man_student: Possuo MBA em gestão de saúde pública;
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software;
