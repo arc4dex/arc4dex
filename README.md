@@ -8,7 +8,7 @@
 - :hourglass: Tenho 30 anos;
 - :desktop_computer: Desenvolvedor Front-End;
 - :weight_lifting_man: Formado em educação física;
-- :man_student: Possuo MBA em gestão de saúde pública;
+- :man_student: MBA em gestão de saúde pública;
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software;
 - 🎓 &nbsp; Estudando Back-end na <a href="https://kenzie.com.br/curriculo">Kenzie Academy </a>;
 - 🌱 &nbsp; Aprendendo mais sobre Docker e PSQL;
