@@ -5,7 +5,7 @@
   <br>
   <h3> Sobre mim </h3>
 
-- :hourglass: Tenho 30 anos;
+- :hourglass: Tenho 32 anos;
 - :desktop_computer: Desenvolvedor Front-End;
 - :weight_lifting_man: Formado em educação física;
 - :man_student: MBA em gestão de saúde pública;
